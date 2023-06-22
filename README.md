@@ -1,5 +1,5 @@
 # grapesjs-basic-setup
--- npm i grapesjs
+- npm i grapesjs
 
 
 
